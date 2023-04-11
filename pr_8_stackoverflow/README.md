@@ -12,6 +12,7 @@
 **Цель исследования** - анализ данных сервиса StackOverflow.
 
 ## ER-диаграмма 
+![2023-04-11_12-21-26](https://user-images.githubusercontent.com/118896438/231104872-4f7e616d-67b1-4861-ab8c-1a5888c8fe3c.png)
 
 
 
