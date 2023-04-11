@@ -1,6 +1,6 @@
 # Путеводитель по проектам
 
-- ## pr_1_music_project: 
+- ## [pr_1_music_project](https://github.com/eklnsk/projects/tree/master/pr_1_music_project): 
 Исследование предпочтений пользователей музыкального сервиса
 - ## pr_2_credit_depatment:
 Исследование надежности заемщиков 
