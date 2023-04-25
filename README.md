@@ -18,5 +18,5 @@
 Исследование сервиса StackOverflow
 - ## [pr_9_ab_test](https://github.com/eklnsk/projects/tree/master/pr_9_ab_test):
 A/B тестирование
-- ## [pr_10_foodstaff_app]():
+- ## [pr_10_foodstaff_app](https://github.com/eklnsk/projects/tree/master/pr_10_foodstaff_app):
 Анализ пользователей мобильного приложения по продаже продуктов питания
