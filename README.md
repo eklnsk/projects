@@ -16,3 +16,5 @@
 Маркетинговый анализ развлекательного приложения
 - ## [pr_8_stackoverflow](https://github.com/eklnsk/projects/tree/master/pr_8_stackoverflow):
 Исследование сервиса StackOverflow
+- ## [pr_9_ab_test](https://github.com/eklnsk/projects/tree/master/pr_9_ab_test):
+A/B тестирование
