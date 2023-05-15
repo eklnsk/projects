@@ -1,22 +1,15 @@
 # Путеводитель по проектам
 
-- ## [pr_1_music_project](https://github.com/eklnsk/projects/tree/master/pr_1_music_project): 
-Исследование предпочтений пользователей музыкального сервиса
-- ## [pr_2_credit_depatment](https://github.com/eklnsk/projects/tree/master/pr_2_credit_depatment):
-Исследование надежности заемщиков 
-- ## [pr_3_real_estate_service](https://github.com/eklnsk/projects/tree/master/pr_3_real_estate_service):
-Исследование объявлений о продаже квартир
-- ## [pr_4_mobile_operator](https://github.com/eklnsk/projects/tree/master/pr_4_mobile_operator):
-Исследование тарифов оператора сотовой связи
-- ## [pr_5_video_games](https://github.com/eklnsk/projects/tree/master/pr_5_video_games):
-Исследование компьютерных игр
-- ## [pr_6_startup_investments](https://github.com/eklnsk/projects/tree/master/pr_6_startup_investments):
-Исследование инвестиций в стартапы
-- ## [pr_7_entertaining_app](https://github.com/eklnsk/projects/tree/master/pr_7_entertaining_app):
-Маркетинговый анализ развлекательного приложения
-- ## [pr_8_stackoverflow](https://github.com/eklnsk/projects/tree/master/pr_8_stackoverflow):
-Исследование сервиса StackOverflow
-- ## [pr_9_ab_test](https://github.com/eklnsk/projects/tree/master/pr_9_ab_test):
-A/B тестирование
-- ## [pr_10_foodstaff_app](https://github.com/eklnsk/projects/tree/master/pr_10_foodstaff_app):
-Анализ пользователей мобильного приложения по продаже продуктов питания
+| Название | Цель и задачи | Инструменты |
+| --- | --- | --- |
+| [pr_1_music_project](https://github.com/eklnsk/projects/tree/master/pr_1_music_project): Исследование предпочтений пользователей музыкального сервиса | Изучение поведения пользователей Москвы и Санкт-Петербурга, проверка гипотез | Python (библиотека Pandas) |
+| [pr_2_credit_depatment](https://github.com/eklnsk/projects/tree/master/pr_2_credit_depatment): Исследование надежности заемщиков   | Анализ влияния факторов на погашение кредита в срок, проверка гипотез | Python (библиотека Pandas) |
+| [pr_3_real_estate_service](https://github.com/eklnsk/projects/tree/master/pr_3_real_estate_service): Исследование объявлений о продаже квартир | Установление параметров для определения рыночной стоимости объектов недвижимости | Python (библиотеки Pandas, Matplotlib) |
+| [pr_4_mobile_operator](https://github.com/eklnsk/projects/tree/master/pr_4_mobile_operator): Исследование тарифов оператора сотовой связи | Анализ поведения абонентов и определение наиболее прибыльного тарифа | Python (библиотеки Pandas, Matplotlib, Seaborn, NumPy, SciPy) |
+| [pr_5_video_games](https://github.com/eklnsk/projects/tree/master/pr_5_video_games): Исследование компьютерных игр | Выявление закономерностей, которые определяют успешность компьютерных игр | Python (библиотеки Pandas, Matplotlib, Seaborn, NumPy, SciPy, Math) |
+| [pr_6_startup_investments](https://github.com/eklnsk/projects/tree/master/pr_6_startup_investments): Исследование инвестиций в стартапы | Анализ данных о фондах и инвестициях | SQL (PostgreSQL) |
+| [pr_7_entertaining_app](https://github.com/eklnsk/projects/tree/master/pr_7_entertaining_app): Маркетинговый анализ развлекательного приложения | Определение каналов привлечения пользователей и их устройств, факторов, мешающих привлечению клиентов, оценка стоимости привлечения пользователей из различных рекламных каналов, расчет LTV | Python (библиотеки Pandas, Matplotlib, Seaborn, NumPy) |
+| [pr_8_stackoverflow](https://github.com/eklnsk/projects/tree/master/pr_8_stackoverflow): Исследование сервиса StackOverflow | Анализ данных сервиса StackOverflow | SQL (PostgreSQL) |
+| [pr_9_ab_test](https://github.com/eklnsk/projects/tree/master/pr_9_ab_test): A/B тестирование | Приоритизация гипотез, запуск A/B-теста, анализ полученных результатов | Python (библиотеки Pandas, Matplotlib, Seaborn, NumPy, SciPy) |
+| [pr_10_foodstaff_app](https://github.com/eklnsk/projects/tree/master/pr_10_foodstaff_app): Анализ пользователей мобильного приложения по продаже продуктов питания | Анализ поведения пользователей путем изучения воронки продаж и исследования результатов A/A/B-эксперимента по изменению шрифта в приложении | Python (библиотеки Pandas, Matplotlib, Seaborn, NumPy, SciPy, Math) |
+| [pr_11_catering_market](https://github.com/eklnsk/projects/tree/master/pr_11_catering_market): Анализ рынка заведений общественного питания Москвы | Подготовка исследования рынка Москвы, поиск интересных особенностей и презентация полученных результатов | Python (библиотеки Pandas, Matplotlib, Seaborn, Plotly, Folium) |
